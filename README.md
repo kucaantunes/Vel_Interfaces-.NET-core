@@ -24,3 +24,7 @@ Development of frontend and views in .Net Core and NodeJS.
 ![image](https://user-images.githubusercontent.com/26171557/187046919-288d93f0-c80e-49b3-8e80-15581ce98a3d.png)
 
 Requires visual studio
+
+Gameplay:
+
+![image](https://user-images.githubusercontent.com/26171557/187051582-677af0d8-c35a-4aa4-8f96-1842af9cc38c.png)
